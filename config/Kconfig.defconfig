@@ -1,0 +1,23 @@
+if SHIELD_KEEBIO_SINC_REV5_LEFT
+
+    config ZMK_KEYBOARD_NAME
+        default "keebio_sinc_rev5(Left)"
+
+    config ZMK_SPLIT_BLE_ROLE_CENTRAL
+        default y
+
+endif
+
+if SHIELD_KEEBIO_SINC_REV5_6x7_RIGHT
+
+    config ZMK_KEYBOARD_NAME
+        default "keebio_sinc_rev5(Right)"
+
+endif
+
+if SHIELD_KEEBIO_SINC_REV5_LEFT || SHIELD_KEEBIO_SINC_REV5_6x7_RIGHT
+
+    config ZMK_SPLIT
+        default y
+
+endif
