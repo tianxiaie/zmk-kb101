@@ -29,7 +29,6 @@
 				&kp F7    &kp F8        &kp CAPS   &kp A    &kp S     &kp D     &kp F     &kp G                     &kp H     &kp J     &kp K     &kp L      &kp SEMI   &kp SQT         &kp ENTER             &kp PG_UP
                 &kp F9    &kp F10       &kp LSHIFT &kp Z    &kp X     &kp C     &kp V     &kp B                     &kp N     &kp M     &kp COMMA &kp DOT    &kp FSLH       &kp RSHIFT            &kp UP      &kp PG_DN
                 &kp F11   &kp F12       &kp LCTRL  &kp LGUI &kp LALT  &kp N1    &kp N2    &kp N3                    &kp N4    &kp N5    &kp N6    &kp SPACE  &kp RALT   &kp RCTRL    &kp LEFT     &kp DOWN    &kp RIGHT
-                &kp N9  &kp N0
 
             >;
         };
