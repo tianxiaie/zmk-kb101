@@ -1,5 +1,0 @@
-config SHIELD_KEEBIO_SINC_REV5_LEFT
-    def_bool $(shields_list_contains,keebio_sinc_rev5_left)
-
-config SHIELD_KEEBIO_SINC_REV5_6x7_RIGHT
-    def_bool $(shields_list_contains,keebio_sinc_rev5_right)
