@@ -4,15 +4,15 @@
  * SPDX-License-Identifier: MIT
  */
 
-#include "quefrency.dtsi"
+#include "sincb.dtsi"
 
 &default_transform {
-    col-offset = <7>;
+    col-offset = <9>;
 };
 
 / {
 
-    /* This kscan is for the 65% right half the 60% right half
+    /* This kscan is for the 75% right half the 75% right half
      * may require different column and row pins
      */
     kscan0: kscan {
